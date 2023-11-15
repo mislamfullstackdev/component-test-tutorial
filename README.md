@@ -1,3 +1,9 @@
+# Install Yarn
+> npm install -g yarn
+**If this command is showing permission error then try with sudo.**
+# create the app
+> yarn create react-app component-test-tutorial --template typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
